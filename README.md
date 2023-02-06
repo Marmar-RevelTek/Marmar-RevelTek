@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marmar Mosadeq</h1>
 <h3 align="center">I'm currently working in RevelTek.Inc</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marmar-reveltek" alt="marmar-reveltek" /></a> </p>
-
 - 🔭 I’m currently working on **GitHub**
 
 - 🌱 I’m currently learning **Focus ,Orbital ,Punctuality ,S.W.A.R.M, Smile, Smart Star, Star,5C of century learning ,**
